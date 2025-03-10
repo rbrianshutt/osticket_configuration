@@ -12,8 +12,6 @@ Lorem ipsum
 - <b>Microsoft Azure</b> 
 - <b>Remote Desktop</b>
 - <b>OsTicket</b>
-- <b></b>
-- <b></b>
 
 <h2>Operating Systems</h2>
 
