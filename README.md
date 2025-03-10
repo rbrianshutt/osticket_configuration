@@ -119,7 +119,8 @@ Name new team: Online Banking  <br/>
 <br />
 
 <h3>Allow anyone to create tickets</h3>
-Admin Panel -> Settings -> User Settings (UNCHECK: Registration Required: Require registration and login to create tickets)  <br/>
+
+Admin Panel -> Settings -> User Settings (UNCHECK: Registration Required: Require registration and login to create tickets) <br/>
 
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/8.1uncheck%20unregistered%20users%20can%20create%20tickets.PNG)
 <br />
