@@ -4,7 +4,7 @@
 
 
 <h2>Description</h2>
-In this project we will be configuring essential components, including roles, departments, teams, agents, users, SLA (Service Level Agreement), and help topics.  For the sake of simplicity, the dependencies are assumed to be installed and setup.
+In this project we will be configuring essential components, including roles, departments, teams, agents, users, SLA (Service Level Agreement), and help topics. 
 <br />
 
 <h2>Techonologies Used</h2>
