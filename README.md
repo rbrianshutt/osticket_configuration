@@ -117,6 +117,7 @@ Name new team: Online Banking  <br/>
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/7.3%20team%20added.PNG)
 <br />
 <br />
+
 <h3>Allow anyone to create tickets</h3>
 Admin Panel -> Settings -> User Settings (UNCHECK: Registration Required: Require registration and login to create tickets)  <br/>
 
