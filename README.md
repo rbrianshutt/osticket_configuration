@@ -1,6 +1,6 @@
 <h1>osTicket Configuration</h1>
 
-![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/osticket-logo1.png)
+![](https://github.com/rbrianshutt/osticket/blob/main/osticket-logo.png)
 
 
 <h2>Description</h2>
