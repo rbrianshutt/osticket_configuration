@@ -31,6 +31,7 @@ Lorem ipsum
 <h2>Program walk-through:</h2>
 
 <h3>Set up virtual environment</h3>
+
 Create an Azure Virtual Machine  <br/>
 
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/1.Create%20an%20Azure%20Virtual%20Machine.PNG)
@@ -42,6 +43,7 @@ Log into the VM with Remote Desktop <br/>
 <br />
 <br />
 <h3>Login Pages</h3>
+
 Admin/Analyst Login Page: <br/>
 http://localhost/osTicket/scp/login.php  <br/>
 
@@ -66,6 +68,7 @@ Agent Panel <br/>
 <br />
 
 <h3>Configure Roles (for grouping permissions)</h3>
+
 Admin Panel -> Agents -> Roles<br/>
 
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/5.1%20congfigure%20role1.PNG)
@@ -93,6 +96,7 @@ Add knowledge base permissions  <br/>
 <br />
 <br />
 <h3>Configure Departments</h3>
+
 Admin Panel -> Agents -> Departments <br/>
 
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/6.1add%20department.PNG)
@@ -126,6 +130,7 @@ Admin Panel -> Settings -> User Settings (UNCHECK: Registration Required: Requir
 <br />
 <br />
 <h3>Configure Agents (workers)</h3>
+
 Admin Panel -> Agents -> Add New <br/>
 
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/9.1add%20new%20agent.PNG)
@@ -175,6 +180,7 @@ Click create <br/>
 <br />
 <br />
 <h3>Configure Users (customers)</h3>
+
 Agent Panel -> Users -> Add New <br/>
 
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/10.1add%20user.PNG)
