@@ -65,7 +65,6 @@ Agent Panel <br/>
 
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/4.agent%20panel.PNG)
 <br />
-<br />
 
 <h3>Configure Roles (for grouping permissions)</h3>
 
@@ -94,7 +93,7 @@ Add knowledge base permissions  <br/>
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/5.5%20add%20permissions%20knowledgebase.PNG)
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/5.6%20added%20supreme%20admin.PNG)
 <br />
-<br />
+
 <h3>Configure Departments</h3>
 
 Admin Panel -> Agents -> Departments <br/>
@@ -108,7 +107,7 @@ Parent set to Top Level Department  <br/>
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/6.2%20create%20sysadmins.PNG)
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/6.3created.PNG)
 <br />
-<br />
+
 <h3>Configure Teams</h3>
 Admin Panel -> Agents -> Teams (Pull Agents from different Departments)  <br/>
 
@@ -128,7 +127,7 @@ Admin Panel -> Settings -> User Settings (UNCHECK: Registration Required: Requir
 
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/8.1uncheck%20unregistered%20users%20can%20create%20tickets.PNG)
 <br />
-<br />
+
 <h3>Configure Agents (workers)</h3>
 
 Admin Panel -> Agents -> Add New <br/>
@@ -192,7 +191,7 @@ Click Add user  <br/>
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/10.2karen.PNG)
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/10.3user%20added.PNG)
 <br />
-<br />
+
 <h3>Configure SLA</h3>
 Admin Panel -> Manage -> SLA  <br/>
 
@@ -220,7 +219,7 @@ Schedule: Business Hours<br/>
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/11.4severity%20c.PNG)
 ![](hub.com/rbrianshutt/osticket/blob/main/osTicket/11.5severity%20added.PNG)
 <br />
-<br />
+
 <h3>Configure Help Topics (For when users create a ticket)</h3>
 Admin Panel -> Manage -> Help Topics<br/>
 
@@ -257,40 +256,5 @@ Enter topic: Other<br/>
 Parent topic: General Inquiry<br/>
 
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/12.7other.PNG)
-<br />
-<br />
-Lorem ipsum  <br/>
-
-![]()
-<br />
-<br />
-Lorem ipsum  <br/>
-
-![]()
-<br />
-<br />
-Lorem ipsum  <br/>
-
-![]()
-<br />
-<br />
-Lorem ipsum  <br/>
-
-![]()
-<br />
-<br />
-Lorem ipsum  <br/>
-
-![]()
-<br />
-<br />
-Lorem ipsum  <br/>
-
-![]()
-<br />
-<br />
-Lorem ipsum  <br/>
-
-![]()
 <br />
 <br />
