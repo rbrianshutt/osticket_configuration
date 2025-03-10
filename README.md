@@ -28,7 +28,7 @@ Lorem ipsum
 
 <h2>Program walk-through:</h2>
 
-<h3>Set up virtual environment</h3>
+<h2>Set up virtual environment</h2>
 
 Create an Azure Virtual Machine  <br/>
 
@@ -64,7 +64,7 @@ Agent Panel <br/>
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/4.agent%20panel.PNG)
 <br />
 
-<h3>Configure Roles (for grouping permissions)</h3>
+<h2>Configure Roles (for grouping permissions)</h2>
 
 Admin Panel -> Agents -> Roles<br/>
 
@@ -92,7 +92,7 @@ Add knowledge base permissions  <br/>
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/5.6%20added%20supreme%20admin.PNG)
 <br />
 
-<h3>Configure Departments</h3>
+<h2>Configure Departments</h2>
 
 Admin Panel -> Agents -> Departments <br/>
 
@@ -106,7 +106,7 @@ Parent set to Top Level Department  <br/>
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/6.3created.PNG)
 <br />
 
-<h3>Configure Teams</h3>
+<h2>Configure Teams</h2>
 
 Admin Panel -> Agents -> Teams (Pull Agents from different Departments)  <br/>
 
@@ -120,14 +120,14 @@ Name new team: Online Banking  <br/>
 <br />
 <br />
 
-<h3>Allow anyone to create tickets</h3>
+<h2>Allow anyone to create tickets</h2>
 
 Admin Panel -> Settings -> User Settings (UNCHECK: Registration Required: Require registration and login to create tickets) <br/>
 
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/8.1uncheck%20unregistered%20users%20can%20create%20tickets.PNG)
 <br />
 
-<h3>Configure Agents (workers)</h3>
+<h2>Configure Agents (workers)</h2>
 
 Admin Panel -> Agents -> Add New <br/>
 
@@ -177,7 +177,7 @@ Click create <br/>
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/9.11agent%20added.PNG)
 <br />
 
-<h3>Configure Users (customers)</h3>
+<h2>Configure Users (customers)</h2>
 
 Agent Panel -> Users -> Add New <br/>
 
@@ -191,7 +191,7 @@ Click Add user  <br/>
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/10.3user%20added.PNG)
 <br />
 
-<h3>Configure SLA</h3>
+<h2>Configure SLA</h2>
 
 Admin Panel -> Manage -> SLA  <br/>
 
@@ -220,7 +220,7 @@ Schedule: Business Hours<br/>
 ![](hub.com/rbrianshutt/osticket/blob/main/osTicket/11.5severity%20added.PNG)
 <br />
 
-<h3>Configure Help Topics (For when users create a ticket)</h3>
+<h2>Configure Help Topics (For when users create a ticket)</h2>
 
 Admin Panel -> Manage -> Help Topics<br/>
 
