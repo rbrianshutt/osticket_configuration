@@ -41,7 +41,7 @@ Log into the VM with Remote Desktop <br/>
 
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/2.Log%20into%20the%20VM%20with%20Remote%20Desktop.PNG)
 <br />
-<br />
+
 <h3>Login Pages</h3>
 
 Admin/Analyst Login Page: <br/>
