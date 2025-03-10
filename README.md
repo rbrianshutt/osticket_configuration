@@ -109,6 +109,7 @@ Parent set to Top Level Department  <br/>
 <br />
 
 <h3>Configure Teams</h3>
+
 Admin Panel -> Agents -> Teams (Pull Agents from different Departments)  <br/>
 
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/7.1add%20new%20team.PNG)
@@ -177,7 +178,7 @@ Click create <br/>
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/9.10agents.PNG)
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/9.11agent%20added.PNG)
 <br />
-<br />
+
 <h3>Configure Users (customers)</h3>
 
 Agent Panel -> Users -> Add New <br/>
@@ -193,6 +194,7 @@ Click Add user  <br/>
 <br />
 
 <h3>Configure SLA</h3>
+
 Admin Panel -> Manage -> SLA  <br/>
 
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/11.1add%20sla.PNG)
@@ -221,6 +223,7 @@ Schedule: Business Hours<br/>
 <br />
 
 <h3>Configure Help Topics (For when users create a ticket)</h3>
+
 Admin Panel -> Manage -> Help Topics<br/>
 
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/12.1add%20new%20help%20topic.PNG)
